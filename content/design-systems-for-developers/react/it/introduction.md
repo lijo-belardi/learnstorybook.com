@@ -4,7 +4,7 @@ tocTitle: 'Introduzione'
 description: 'Una guida agli strumenti più recenti pronti per la produzione per i design systems'
 ---
 
-<div class="aside">questa guida è fatta per <b>sviluppatori professionali</b> intenzionati ad apprendere come costruire design systems. È raccomandato un livello intermedio di esperienza in Javascript, Git e continuous integration. 
+<div class="aside">Questa guida è fatta per <b>sviluppatori professionali</b> intenzionati ad apprendere come costruire design systems. È raccomandato un livello intermedio di esperienza in Javascript, Git e continuous integration. 
 Si dovrebbero anche conoscere le nozioni di base di Storybook, come scrivere una storia e modificare i file di configurazione
 (<a href="/intro-to-storybook">Introduzione a Storybook</a> insegna le basi).
 </div>
