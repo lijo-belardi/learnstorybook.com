@@ -10,11 +10,15 @@ Si dovrebbero anche conoscere le nozioni di base di Storybook, come scrivere una
 </div>
 <br/>
 
-Design systems are exploding in popularity. From tech heavyweights like Airbnb to nimble startups, organizations of every shape are reusing UI patterns to save time and money. But there’s a chasm between the design systems created by BBC, Airbnb, IBM, or Microsoft and the design systems created by most developers.
+I design systems stanno conoscendo un crescente aumento di popolarità. Dalle grandi realtà tecnologiche come Airbnb alle agili startup, organizzazioni di ogni tipo stanno riutilizzando modelli UI per risparmiare tempo e denaro.
 
-Why do leading design systems teams use the tools and techniques they use? My co-author Tom and I researched the traits of successful design systems from the Storybook community to identify best practices.
+Tuttavia, esiste un divario tra i design systems creati da BBC, Airbnb, IBM o Microsoft e quelli creati dalla maggior parte degli sviluppatori.
 
-This step-by-step guide reveals the automated tooling and careful workflows used in scaled production design systems. We’ll walk through assembling a design system from existing component libraries, then set up core services, libraries, and workflows.
+Perchè i teams leader di design system si avvalgono degli strumenti e delle tecniche che utilizzano?
+Il mio coautore Tom ed io abbiamo condotto una ricerca sui tratti di successo dei design system presenti nella community di Storybook al fine di identificare quelle che sono le pratiche migliori.
+
+Questa guida passo-passo intende rivelare l'automazione degli strumenti e i flussi di lavoro utilizzati nei design system di produzione su larga scala.
+Percorreremo l'assemblaggio di un design system partendo da librerie di componenti esistenti, per poi configurare i servizi principali, le librerie e i flussi di lavoro.
 
 ![Design system overview](/design-systems-for-developers/design-system-overview.jpg)
 
