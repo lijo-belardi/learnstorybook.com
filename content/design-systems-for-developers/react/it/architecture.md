@@ -1,7 +1,7 @@
 ---
-title: 'Architecting systems'
-tocTitle: 'Architecture'
-description: 'How to extract a design system from component libraries'
+title: 'Sistemi di architettura'
+tocTitle: 'Architettura'
+description: 'Come estrarre un design system dalle librerie di componenti'
 commit: '5aa78f3'
 ---
 
