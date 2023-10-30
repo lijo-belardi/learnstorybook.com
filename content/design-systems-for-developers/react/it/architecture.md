@@ -9,7 +9,7 @@ In chapter 2, we extract a design system from existing component libraries. Alon
 
 In large companies, this exercise is done in conjunction with design, engineering, and product teams. [Chromatic](https://www.chromatic.com/?utm_source=storybook_website&utm_medium=link&utm_campaign=storybook) (the company behind Storybook) and [Storybook](https://storybook.js.org/) share a sprightly frontend infrastructure team that serves 1400+ open source contributors across 3+ properties, so we’re going to outline the process for you.
 
-## The challenge
+## La sfida
 
 If you work on a development team, you’ve probably noticed that bigger teams aren’t very efficient. Miscommunication is rampant as teams grow. Existing UI patterns go undocumented or are lost altogether. That means developers reinvent the wheel instead of building new features. Over time, projects are littered with one-off components.
 
@@ -17,7 +17,7 @@ We slammed into this predicament. Despite the best intentions of an experienced 
 
 ![UIs diverge](/design-systems-for-developers/design-system-inconsistent-buttons.jpg)
 
-## Create a design system
+## Creare un design system
 
 A design system consolidates common UI components in a central well-maintained repository that gets distributed via a package manager. Developers import standardized UI components instead of pasting the same UI code in multiple projects.
 
@@ -25,7 +25,7 @@ Most design systems aren’t built from scratch. Instead, they’re assembled fr
 
 ![What's in a design system](/design-systems-for-developers/design-system-contents.jpg)
 
-## Where does the design system live?
+## Dove risiede il design system?
 
 You can think of a design system as another component library, but it serves an entire organization instead of servicing one app. A design system focuses on UI primitives, while project-specific component libraries can contain anything from composite components to screens.
 
@@ -33,7 +33,7 @@ As such, our design system must be independent of any project and also a depende
 
 ![Who uses a design system](/design-systems-for-developers/design-system-consumers.jpg)
 
-## Set up a repository in GitHub
+## Configura una repository su GitHub
 
 React is the most popular view layer according to the [State of JS](https://stateofjs.com/) survey. An overwhelming number of Storybooks use React, so we’re using it in this tutorial to build our design system.
 
@@ -74,7 +74,7 @@ Be sure to replace `your-username` with your account name.
 
 <div class="aside">💡 Other valid methods of creating design systems include shipping raw HTML/CSS, using other view layers, compiling components with Svelte, or using web components. Pick what works for your team.</div>
 
-## What belongs and what doesn’t
+## Cosa è incluso e cosa non lo è
 
 Design systems should only contain pure and presentational components. These components deal with how UI appears, respond exclusively to props, do not contain app-specific business logic, and are agnostic to how data loads. These properties are essential in allowing the component to be reusable.
 
@@ -84,7 +84,7 @@ App-specific components that contain business logic should not be included becau
 
 Omit one-offs that aren’t currently being reused. Even if you hope they become part of the design system one day, nimble teams avoid maintaining excess code when possible.
 
-## Create an inventory
+## Crea un inventario
 
 The first task is creating an inventory of your components to identify the most used. It often involves manually cataloging screens in various websites or apps to discern common UI patterns. Designers like [Brad Frost](http://bradfrost.com/blog/post/interface-inventory/) and [Nathan Curtis](https://medium.com/eightshapes-llc/the-component-cut-up-workshop-1378ae110517) have published handy methodologies for inventorying components so we won’t go into further detail in this tutorial.
 
@@ -105,6 +105,6 @@ We’ve selected a subset of these components for this tutorial to make reasonin
 
 In addition to UI components, it makes sense to include styling constants for typography, colors, spacing, etc., that are reused across projects. In design system nomenclature global style variables are called “design tokens”. We won’t dive into the theory behind design tokens in this guide, but you can learn more online (here’s a [good article](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)).
 
-## Let’s start developing
+## Iniziamo a sviluppare
 
 We’ve defined what to build and how it fits together. Now it’s time to get to work. In chapter 3, we’ll scaffold the fundamental tooling for design systems. Our raw directory of UI components will be cataloged and viewable with help from Storybook.
