@@ -50,7 +50,7 @@ The economy of scale in a design system works in your favor when sharing UI comp
 
 ## Cosa stiamo costruendo
 
-Storybook powers the design systems for [BBC](https://www.bbc.co.uk/iplayer/storybook/index.html?path=/story/style-guide--colours), [Airbnb](https://github.com/airbnb/lunar), [IBM](https://www.carbondesignsystem.com/), [GitHub](https://primer.style/css/), and hundreds more companies. The recommendations here are inspired by best practices and tools from the smartest teams. We’ll be building the following frontend stack:
+Storybook alimenta i design systems di [BBC](https://www.bbc.co.uk/iplayer/storybook/index.html?path=/story/style-guide--colours), [Airbnb](https://github.com/airbnb/lunar), [IBM](https://www.carbondesignsystem.com/), [GitHub](https://primer.style/css/) e di centinaia di altre aziende. Le raccomandazioni qui presenti sono ispirate alle pratiche migliori e agli strumenti utilizzati dai teams più esperti. Costruiremo il seguente stack frontend:
 
 #### Costruire i componenti
 
