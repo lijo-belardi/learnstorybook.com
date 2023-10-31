@@ -54,10 +54,10 @@ Storybook powers the design systems for [BBC](https://www.bbc.co.uk/iplayer/stor
 
 #### Costruire i componenti
 
-- 📚 [Storybook](http://storybook.js.org) for UI component development and auto-generated docs
-- ⚛️ [React](https://reactjs.org/) for declarative component-centric UI (via create-react-app)
-- 💅 [Emotion](https://emotion.sh/docs/introduction) for component-scoped styling
-- ✨ [Prettier](https://prettier.io/) for automatic code formatting
+- 📚 [Storybook](http://storybook.js.org) per sviluppare componenti UI e generare docs in maniera automatica
+- ⚛️ [React](https://reactjs.org/) per una UI dichiarativa incentrata sui componenti (tramite create-react-app)
+- 💅 [Emotion](https://emotion.sh/docs/introduction) per applicare lo stile a livello di componenti
+- ✨ [Prettier](https://prettier.io/) per formattare in maniera automatica il codice
 
 #### Mantenere il sistema
 
