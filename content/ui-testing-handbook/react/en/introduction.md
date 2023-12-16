@@ -2,7 +2,7 @@
 title: 'Introduction to testing UIs'
 tocTitle: 'Introduction'
 description: 'Latest production-ready techniques for testing UIs'
-commit: '2572b07'
+commit: 'b832fa9'
 ---
 
 <div class="aside">This guide is made for <b>professional developers</b> experienced with JavaScript, React and Storybook. If you're not quite there yet, visit <a href="/intro-to-storybook">Intro to Storybook</a> to learn the basics!
@@ -65,7 +65,7 @@ The teams I interviewed all had similar tactics despite differences in their siz
 
 ## Let's get testing
 
-In upcoming chapters, we'll dig deeper into each layer of the test stack and get into the mechanics implementing this testing strategy. But first, we’re going to need something to test. I’ll be using the Taskbox aplication as an example. It’s a task management app similar to Asana.
+In upcoming chapters, we'll dig deeper into each layer of the test stack and get into the mechanics implementing this testing strategy. But first, we’re going to need something to test. I’ll be using the Taskbox application as an example. It’s a task management app similar to Asana.
 
 ![](/ui-testing-handbook/taskbox.png)
 
