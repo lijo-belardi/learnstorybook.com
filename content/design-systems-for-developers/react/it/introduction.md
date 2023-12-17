@@ -80,7 +80,8 @@ Storybook alimenta i design systems di [BBC](https://www.bbc.co.uk/iplayer/story
 
 ## Comprendere il flusso di lavoro
 
-Design systems are an investment in frontend infrastructure. In addition to showcasing how to use the technology above, this guide also focuses on core workflows that promote adoption and simplify maintenance. Wherever possible, manual tasks will be automated. Below are the activities we’ll encounter.
+I design systems rappresentano un investimento per quanto riguarda l'infrastruttura frontend.
+Oltre a mostrare come utilizzare la tecnologia di cui sopra, questa guida intende anche focalizzarsi sui flussi di lavoro principali che ne promuovono l'adozione e che semplificano la manutenzione. Di seguito sono elencate le attività che incontreremo.
 
 #### Creare componenti UI in maniera isolata
 
