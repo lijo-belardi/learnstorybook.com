@@ -69,14 +69,14 @@ Storybook alimenta i design systems di [BBC](https://www.bbc.co.uk/iplayer/story
 
 #### Componenti aggiuntivi di Storybook
 
-- ♿ [Accessibility](https://github.com/storybookjs/storybook/tree/master/addons/a11y) to check for accessibility issues during development
-- 💥 [Actions](https://storybook.js.org/docs/react/essentials/actions) to QA click and tap interactions
-- 🎛 [Controls](https://storybook.js.org/docs/react/essentials/controls) to interactively adjust props to experiment with components
-- 📕 [Docs](https://storybook.js.org/docs/react/writing-docs/introduction) for automatic documentation generation from stories
-- 🔍 [Interactions](https://storybook.js.org/addons/@storybook/addon-interactions/) for debugging component interactions
-- 🏎 [Test-runner](https://storybook.js.org/docs/react/writing-tests/test-runner) for automated component testing
+- ♿ [Accessibilità](https://github.com/storybookjs/storybook/tree/master/addons/a11y) per verificare i problemi di accessibilità durante lo sviluppo
+- 💥 [Azioni](https://storybook.js.org/docs/react/essentials/actions) per garantire la qualità delle interazioni di click e tocco
+- 🎛 [Controlli](https://storybook.js.org/docs/react/essentials/controls) per regolare in maniera interattiva le proprietà ed effettuare esperimenti con i componenti
+- 📕 [Docs](https://storybook.js.org/docs/react/writing-docs/introduction) per la generazione automatica della documentazione partendo dalle storie
+- 🔍 [Interazioni](https://storybook.js.org/addons/@storybook/addon-interactions/) per il debug delle interazioni del componente
+- 🏎 [Test-runner](https://storybook.js.org/docs/react/writing-tests/test-runner) per automatizzare il testing dei componenti
 
-![Design system workflow](/design-systems-for-developers/design-system-workflow.jpg)
+![flusso di lavoro del design system](/design-systems-for-developers/design-system-workflow.jpg)
 
 ## Comprendere il flusso di lavoro
 
