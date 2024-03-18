@@ -24,7 +24,12 @@ Percorreremo l'assemblaggio di un design system partendo da librerie di componen
 
 ## In ogni caso, qual è il problema dei design systems?
 
-Let’s get something out of the way: the concept of a reusable user interface isn’t new. Styleguides, UI kits, and shareable widgets have existed for decades. Today, designers and developers are aligning towards the UI component construct. A UI component encapsulates the visual and functional properties of discrete user interface pieces. Think LEGO bricks.
+Togliamo qualcosa di mezzo: il concetto di riutilizzare l'interfaccia utente non è nuovo.
+Guide riguardanti lo stile, kits UI e widgets condivisibili esistono da decenni.
+Oggi, designers e sviluppatori si stanno allineando verso la struttura dei componenti UI.
+Un componente UI incapsula le proprietà visive e funzionali di parti discrete dell'interfaccia utente.
+Pensa ai mattoncini LEGO.
+
 
 Modern user interfaces are assembled from hundreds of modular UI components that are rearranged to deliver different user experiences.
 
